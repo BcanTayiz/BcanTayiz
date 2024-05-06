@@ -12,7 +12,7 @@
 
 ## Puter.com Apps
 I started to create apps on platform puter.com. You can easily integreate and look at the examples and create an app with html,css,javascript.
-There are som bugs on the apps yet I am improving my skill at and remember the coding vanilla.js
+There are some bugs on the apps yet I am improving my skill at and remember the coding vanilla.js
 Apps:
 - https://puter.com/app/coding-interview-prep-6sosw3ituaq
 - https://puter.com/app/event-time-counter-4xzurv0ed33
