@@ -7,7 +7,7 @@
 - 💬 Ask me about python, javascript, react
 - 📫 How to reach me: https://www.linkedin.com/in/baris-can-tayiz
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I learnt composing music high level and played instruments before
+- ⚡ Fun fact: No fun if the bug doesn’t magically disappear after a restart
 
 
 ## Puter.com Apps
