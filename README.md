@@ -13,5 +13,5 @@
 ## AI Projects I Started to Build with Streamlit
 
 - [AI Based Task Manager](https://github.com/BcanTayiz/AI_Projects/tree/main/AI_based_Task_Manager),
-- [Generating_Poetic_Texts](https://github.com/BcanTayiz/AI_Projects/tree/main/Generating_Poetic_Texts),
-- [Realtime Sentiment Analyisi](https://github.com/BcanTayiz/AI_Projects/tree/main/Realtime_Sentiment_Analysis)
+- [Generating Poetic Texts](https://github.com/BcanTayiz/AI_Projects/tree/main/Generating_Poetic_Texts),
+- [Realtime Sentiment Analysis](https://github.com/BcanTayiz/AI_Projects/tree/main/Realtime_Sentiment_Analysis)
