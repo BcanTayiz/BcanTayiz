@@ -16,4 +16,6 @@ First please check the Readme [link](https://github.com/BcanTayiz/AI_Projects/tr
 
 - [AI Based Task Manager](https://github.com/BcanTayiz/AI_Projects/tree/main/AI_based_Task_Manager),
 - [Generating Poetic Texts](https://github.com/BcanTayiz/AI_Projects/tree/main/Generating_Poetic_Texts),
-- [Realtime Sentiment Analysis](https://github.com/BcanTayiz/AI_Projects/tree/main/Realtime_Sentiment_Analysis)
+- [Realtime Sentiment Analysis](https://github.com/BcanTayiz/AI_Projects/tree/main/Realtime_Sentiment_Analysis),
+- [Network_Design_by_Graph_System](https://github.com/BcanTayiz/AI_Projects/tree/main/Network_Design_Graph_System),
+- 
