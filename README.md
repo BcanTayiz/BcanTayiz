@@ -10,7 +10,7 @@
 - ⚡ Fun fact: No fun if the bug doesn’t magically disappear after a restart
 
 
-## AI Project I Started to Build with Streamlit
+## AI Projects I Started to Build with Streamlit
 
 - [AI Based Task Manager](https://github.com/BcanTayiz/AI_Projects/tree/main/AI_based_Task_Manager),
 - [Generating_Poetic_Texts](https://github.com/BcanTayiz/AI_Projects/tree/main/Generating_Poetic_Texts),
