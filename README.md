@@ -10,12 +10,8 @@
 - ⚡ Fun fact: No fun if the bug doesn’t magically disappear after a restart
 
 
-## Puter.com Apps
-I started to create apps on platform puter.com. You can easily integreate and look at the examples and create an app with html,css,javascript.
-There are some bugs on the apps yet I am improving my skill at and remember the coding vanilla.js
-Apps:
-- https://puter.com/app/coding-interview-prep-6sosw3ituaq
-- https://puter.com/app/event-time-counter-4xzurv0ed33
-- https://puter.com/app/timely-todo-15cz2580mk
-- https://puter.com/app/text-crafty-b4o5wke51i9
+## AI Project I Started to Build with Streamlit
 
+- [AI Based Task Manager](https://github.com/BcanTayiz/AI_Projects/tree/main/AI_based_Task_Manager),
+- [Generating_Poetic_Texts](https://github.com/BcanTayiz/AI_Projects/tree/main/Generating_Poetic_Texts),
+- [Realtime Sentiment Analyisi](https://github.com/BcanTayiz/AI_Projects/tree/main/Realtime_Sentiment_Analysis)
