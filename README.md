@@ -10,6 +10,11 @@
 - ⚡ Fun fact: No fun if the bug doesn’t magically disappear after a restart
 
 
+## Live Portfolio Projects
+
+- [***War Simulation***](https://war-simulation.onrender.com/)
+
+
 ## AI Projects I Started to Build with Streamlit
 
 First please check the Readme [link](https://github.com/BcanTayiz/AI_Projects/tree/main)
