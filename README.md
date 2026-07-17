@@ -9,6 +9,11 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: No fun if the bug doesn’t magically disappear after a restart
 
+## Presentation of Projects
+
+I present my scientific and research projects on medium [medium-page](https://medium.com/@tech_future), 
+
+
 
 ## Live Portfolio Projects
 
